@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "download_url": "",
-  "sha256": "",
+  "download_url": "https://github.com/rapidex-cpu/RAPIDEX-UPDATES/releases/download/untagged-2d46304a2946caafabdd/Rapidex.exe",
+  "sha256": "BFDC85050CCCF011BC68EBD8D9902790FBFE03CD426B9E6B4BF737AF94863DFD",
   "release_notes": "Initial RAPIDEX release"
 }
