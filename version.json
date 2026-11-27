@@ -1,7 +1,6 @@
-
 {
   "version": "1.0.2",
-  "download_url": "https://github.com/rapidex-cpu/RAPIDEX-UPDATES/releases/download/v1.0.0/Rapidex.exe",
-  "sha256": "303AE954A572B2BC259E25F1C0F218BBDE1BE9AD58E3D2E0A8489C5AA6D2C04E",
+  "download_url": "https://github.com/rapidex-cpu/RAPIDEX-UPDATES/releases/download/v1.0.2/Rapidex.exe",
+  "sha256": "568cde1fa7ff3e0dee568270ce372d39c8e11220f45a0d172056f24bb52b0874",
   "release_notes": "RAPIDEX 1.0.2 auto-update test"
 }
